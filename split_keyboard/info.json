@@ -1,0 +1,235 @@
+{
+    "keyboard_name": "Quick Pad",
+    "manufacturer": "samesand",
+    "url": "",
+    "maintainer": "samesand",
+    "usb": {
+        "vid": "0x8968",
+        "pid": "0x1013",
+        "device_version": "0.0.1"
+    },
+    "processor": "atmega32u4",
+    "bootloader": "atmel-dfu",
+    "layouts": {
+        "LAYOUT_basic": {
+            "layout": [
+                {
+                    "label": "q",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "label": "w",
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "label": "f",
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "label": "p",
+                    "x": 3,
+                    "y": 0
+                },
+                {
+                    "label": "b",
+                    "x": 0,
+                    "y": 4
+                },
+                {
+                    "label": "(",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "label": "a",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "label": "r",
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "label": "s",
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "label": "t",
+                    "x": 3,
+                    "y": 1
+                },
+                {
+                    "label": "g",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "label": "left",
+                    "x": 5,
+                    "y": 1
+                },
+                {
+                    "label": "z",
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "label": "x",
+                    "x": 1,
+                    "y": 2
+                },
+                {
+                    "label": "c",
+                    "x": 2,
+                    "y": 2
+                },
+                {
+                    "label": "d",
+                    "x": 3,
+                    "y": 2
+                },
+                {
+                    "label": "v",
+                    "x": 4,
+                    "y": 2
+                },
+                {
+                    "label": "'",
+                    "x": 5,
+                    "y": 2
+                },
+                {
+                    "label": "Ctrl",
+                    "x": 3,
+                    "y": 3
+                    
+                },
+                {
+                    "label": "Shift",
+                    "x": 4,
+                    "y": 3
+                    
+                },
+                {
+                    "label": "Space",
+                    "x": 5,
+                    "y": 3
+                    
+                },
+                {
+                    "label": ")",
+                    "x": 0,
+                    "y": 4
+                },
+                {
+                    "label": "j",
+                    "x": 1,
+                    "y": 4
+                },
+                {
+                    "label": "l",
+                    "x": 2,
+                    "y": 4
+                },
+                {
+                    "label": "u",
+                    "x": 3,
+                    "y": 4
+                },
+                {
+                    "label": "y",
+                    "x": 4,
+                    "y": 4
+                },
+                {
+                    "label": "ESC",
+                    "x": 5,
+                    "y": 4
+                },
+                {
+                    "label": "right",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "label": "m",
+                    "x": 1,
+                    "y": 5
+                },
+                {
+                    "label": "n",
+                    "x": 2,
+                    "y": 5
+                },
+                {
+                    "label": "e",
+                    "x": 3,
+                    "y": 5
+                },
+                {
+                    "label": "i",
+                    "x": 4,
+                    "y": 5
+                },
+                {
+                    "label": "o",
+                    "x": 5,
+                    "y": 5
+                },
+                {
+                    "label": "=",
+                    "x": 0,
+                    "y": 6
+                },
+                {
+                    "label": "k",
+                    "x": 1,
+                    "y": 6
+                },
+                {
+                    "label": "h",
+                    "x": 2,
+                    "y": 6
+                },
+                {
+                    "label": ".",
+                    "x": 3,
+                    "y": 6
+                },
+                {
+                    "label": "v",
+                    "x": 4,
+                    "y": 6
+                },
+                {
+                    "label": "down",
+                    "x": 5,
+                    "y": 6
+                },
+                {
+                    "label": "BSPC",
+                    "x": 0,
+                    "y": 7
+                    
+                },
+                {
+                    "label": "Enter",
+                    "x": 1,
+                    "y": 7
+                    
+                },
+                {
+                    "label": "Layer",
+                    "x": 2,
+                    "y": 7
+                    
+                }
+            ]
+        }
+    }
+}
